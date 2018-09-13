@@ -5,4 +5,4 @@ os:
   - linux
 
 node_js:
-  - node
+  - 8
