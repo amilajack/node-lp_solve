@@ -5,4 +5,11 @@ os:
   - linux
 
 node_js:
+  - node
+  - 9
   - 8
+  - 6
+
+matrix:
+  allow_failures:
+  - node: node

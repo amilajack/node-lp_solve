@@ -1,5 +1,6 @@
 node-lp_solve
 ============
+[![Build Status](https://travis-ci.org/amilajack/node-lp_solver.svg?branch=master)](https://travis-ci.org/amilajack/node-lp_solver)
 
 A NodeJS module for createing and solving simple Linear Programs using lp_solve.
 
