@@ -1,6 +1,6 @@
 node-lp_solve
 ============
-[![Build Status](https://travis-ci.org/amilajack/node-lp_solver.svg?branch=master)](https://travis-ci.org/amilajack/node-lp_solver)
+[![Build Status](https://travis-ci.org/amilajack/node-lp_solver.svg?branch=master)](https://travis-ci.org/amilajack/node-lp_solver) [![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/node-lp_solve.svg)](https://greenkeeper.io/)
 
 A NodeJS module for createing and solving simple Linear Programs using lp_solve.
 
